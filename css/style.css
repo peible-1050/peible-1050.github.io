@@ -1,0 +1,60 @@
+html {
+    background: #151515;
+}
+
+body {
+    font-family: "Press Start 2P", system-ui;
+    font-style: normal;
+    margin: 0px 0px 0px 0px;
+    width: 100%;
+}
+  
+main{
+    margin-left: 30px;
+    margin-right: 15px;
+}
+  
+.welcome {
+    color: #04E521
+}
+
+header {
+    padding-top: 35px;
+    width: 100%;
+    height: 75px;
+    background: #04E521;
+}
+
+nav {
+    font-size: xx-large;
+    margin-top: 0px;
+}
+
+ul {
+    margin-top: 0px;
+    
+}
+
+ul#menu li {
+    display: inline;
+    margin: 0px 50px 0px 0px;
+    
+
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+footer {
+    padding-top: 15px;
+    padding-left: 15px;
+    border-top: 3px solid #04E521;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    color: #04E521;
+    display: flex;
+
+}
