@@ -20,6 +20,7 @@ main{
 
 header {
     padding-top: 35px;
+    padding-bottom: 10px;
     width: 100%;
     height: max-content;
     background: #04E521;
